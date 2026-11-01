@@ -4,7 +4,7 @@ A full-stack task management system for HMCTS caseworkers, built for the
 [DTS Developer Technical Test](https://github.com/hmcts/dts-developer-challenge).
 
 Caseworkers can create tasks, see what is due next, move work through
-**To do → In progress → Done**, and edit or delete tasks — all from a single
+**To do → In progress → Done**, and edit or delete tasks, all from a single
 responsive dashboard backed by a documented REST API.
 
 ![Caseworker task dashboard](docs/screenshot.png)
