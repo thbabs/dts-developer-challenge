@@ -1,4 +1,4 @@
-# DTS Developer Technical Test — Caseworker tasks
+# DTS Developer Technical Test (Caseworker tasks)
 
 A full-stack task management system for HMCTS caseworkers, built for the
 [DTS Developer Technical Test](https://github.com/hmcts/dts-developer-challenge).
